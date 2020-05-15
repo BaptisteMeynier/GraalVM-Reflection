@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "com.keywer.aot.User",
+    "allDeclaredFields": true,
+    "allDeclaredMethods" : true,
+    "fields": [
+      {"name" : "age", "allowWrite" : true }
+    ],
+    "methods": [
+      { "name" : "sayHello", "parameterTypes" : [] },
+      { "name" : "sayHelloForUser", "parameterTypes" : ["java.lang.String"] }
+    ]
+  }
+]
